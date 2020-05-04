@@ -1,6 +1,6 @@
 <h1 align="center">Redux no ReactJS - OneBitBook</h1>
 
-<h3 align="center">Aprofundamento das noções de Redux no ReactJS na criação de uma carrinho de compras</h3>
+<h3 align="center">Aprofundamento das noções de Redux no ReactJS.</h3>
 
 <br />
 <p> Criação de um e-commerce simples com o uso do Redux dentro do ReactJS. O funcionamento consiste na seleçao e edição do produto dentro do carrinho apresentando seus respectivos valores iniciais e totais ao final da compra.   .</p>
